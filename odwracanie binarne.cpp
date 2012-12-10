@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-//wyœwietlanie binarne
+//wyswietlanie binarne
 void wysbin (int x){
      cout<< "binarnie ta liczba wyglada tak: \t";
      for( int i = 0 ; i < 32 ; i++){
